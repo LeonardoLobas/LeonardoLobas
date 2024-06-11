@@ -1,3 +1,4 @@
+![Uploading bem-vindo.gif…]()
 
 <h2>Sobre Mim</h2>
 <div>
