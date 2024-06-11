@@ -9,16 +9,17 @@ Sou movido pela curiosidade e pela vontade de resolver problemas complexos atrav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" />
 </div>
 <h2>Estátisticas</h2>
 <div>
   <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2>Contatos</h2>
 <div>
   <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
   </a>
+  <a href = "mailto:contato@leonardolobas2703"><img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new" target="_blank"></a> 
 </div>
