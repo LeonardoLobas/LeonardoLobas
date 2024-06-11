@@ -1,5 +1,5 @@
 
-<h1>![Bem-vindo](https://media.tenor.com/9SClJLFpkC4AAAAd/bem-vindo.gif)</h1>
+<div class="tenor-gif-embed" data-postid="3883361072565424284" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bem-vindo-gif-3883361072565424284">Bem Vindo GIF</a>from <a href="https://tenor.com/search/bem+vindo-gifs">Bem Vindo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h2>Sobre Mim</h2>
 <div>
   <p>Olá! Eu sou o Leonardo Lobas Rockenbach, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, Trabalho na maior empresa de portas do Brasil e tenho uma sede insaciável por aprendizado e busco constantemente me aprimorar em diversas áreas do desenvolvimento. Meu foco está em criar soluções eficientes e inovadoras, utilizando as melhores práticas de design e desenvolvimento.
