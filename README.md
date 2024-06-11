@@ -18,5 +18,7 @@ Sou movido pela curiosidade e pela vontade de resolver problemas complexos atrav
 </div>
 <h2>Contatos</h2>
 <div>
-  <a>href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
+  </a>
 </div>
