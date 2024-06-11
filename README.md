@@ -7,7 +7,7 @@ Sou movido pela curiosidade e pela vontade de resolver problemas complexos atrav
 </div>
 <h2>Ferramentar e Tecnologias</h2>
 <div>
-  <img src="![image](https://github.com/LeonardoLobas/LeonardoLobas/assets/131707391/b90afa18-42b7-4b71-beda-0cb92772f658)"width="50" height="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
