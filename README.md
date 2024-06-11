@@ -1,4 +1,3 @@
-[![Bem-vindo](https://i.imgur.com/abc123.gif)](https://tenor.com/pt-PT/view/bem-vindo-gif-3883361072565424284)
 
 <h2>Sobre Mim</h2>
 <div>
