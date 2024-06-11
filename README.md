@@ -14,12 +14,12 @@ Sou movido pela curiosidade e pela vontade de resolver problemas complexos atrav
 <h2>Estátisticas</h2>
 <div>
   <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2>Contatos</h2>
 <div>
   <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
   </a>
-  <a href = "mailto:contato@leonardolobas2703"><img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new" target="_blank"></a> 
+  <a href = "[gmailto:contato@leonardolobas2703](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkFRRLdVNvLbPFsRzTdSKbqVWrjFBqghkmTjNSDDldqnMkTZHKNPTnNtSDfRKBkcklkFB)"><img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new" target="_blank"></a> 
 </div>
