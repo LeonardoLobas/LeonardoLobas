@@ -18,8 +18,10 @@ Sou movido pela curiosidade e pela vontade de resolver problemas complexos atrav
 </div>
 <h2>Contatos</h2>
 <div>
-  <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
+    <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
-  </a>
-  <a href = "[gmailto:contato@leonardolobas2703](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkFRRLdVNvLbPFsRzTdSKbqVWrjFBqghkmTjNSDDldqnMkTZHKNPTnNtSDfRKBkcklkFB)"><img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new" target="_blank"></a> 
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkFRRLdVNvLbPFsRzTdSKbqVWrjFBqghkmTjNSDDldqnMkTZHKNPTnNtSDfRKBkcklkFB"     target="_blank">
+    <img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">
+</a>
 </div>
