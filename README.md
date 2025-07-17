@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLobas&layout=compact&langs_count=7&theme=dark&bg_color=000000&text_color=ffffff&title_color=00ff41&hide_border=true"/>
 </div>
 
 ## 📫 Get in Touch
