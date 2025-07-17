@@ -10,27 +10,29 @@
 </p>
 
 <h2 align="center">Ferramentas e Tecnologias</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" />
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" />
-  </div>
-  <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px;">
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" />
+    </div>
+    <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
+    </div>
   </div>
 </div>
 
@@ -42,15 +44,17 @@
 </div>
 
 <h2 align="center">Contatos</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
-    <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
-    </div>
-  </a>
-  <a href="mailto:leonardolobas@gmail.com" target="_blank">
-    <div style="padding: 10px; border-radius: 10px; border: 1px solid #ccc;">
-      <img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">
-    </div>
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://www.linkedin.com/in/leonardo-lobas-rockenbach-9160bb277/" target="_blank">
+      <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
+      </div>
+    </a>
+    <a href="mailto:leonardolobas@gmail.com" target="_blank">
+      <div style="padding: 8px; border-radius: 8px; border: 1px solid #ccc;">
+        <img width="50" height="50" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">
+      </div>
+    </a>
+  </div>
 </div>
